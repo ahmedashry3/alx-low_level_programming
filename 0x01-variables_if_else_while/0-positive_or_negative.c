@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
 *main – Entry point
-*Description: Printing a number & stating whether it is positive, negative, or zero.
-* Return: Always 0.
+*Description: ‘Checking for a number whether it is positive  negative or zero’
+* Return: always 0
 */
 int main(void)
 {
