@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
@@ -5,6 +6,7 @@
 *
 * Return: Always 0.
 */
+
 int main(void)
 {
 print_binary(0);
@@ -17,5 +19,5 @@ print_binary(1024);
 printf("\n");
 print_binary((1 << 10) + 1);
 printf("\n");
-return (0);
+eturn (0);
 }
